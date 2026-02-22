@@ -198,6 +198,11 @@ footer {
   margin-bottom: 20px;
   opacity: 0.9;
 }
+.section-image {
+  margin-top: 2rem;
+  width:70%;
+  border-radius: 14px;
+}
 
 /* Card autor */
 .author-card {
